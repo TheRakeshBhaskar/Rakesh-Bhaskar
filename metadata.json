@@ -1,0 +1,7 @@
+{
+  "name": "Waartaa.in - News Anchor",
+  "description": "A professional Marathi news broadcast generator that converts text into clear, reliable news audio scripts and speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
